@@ -9,7 +9,7 @@ server:
 
 spring:
   application:
-    name: bs-config-service
+    name: config-service
   cloud:
     config:
       server:
